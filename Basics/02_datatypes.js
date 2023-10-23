@@ -19,3 +19,22 @@ let isloggedIn = false // boolean
 
 //object 
 console.log(typeof(null)); 
+
+
+
+/* summary of Data types - might be used for questions 
+ 2 types - 
+   01.primitive data types / call by value
+   * String 
+   * Numbers 
+   * BigInt
+   * Boolean 
+   * symbol
+   * undefined
+   * Null [ null is object typeof]
+   
+   
+   02.Non Primitive data types / call by reference 
+   *object  { written in curly braces called scope }
+   * functions : Function(){} - written like this 
+   * array : [ " written in square brackets separted by " , "commas"]
